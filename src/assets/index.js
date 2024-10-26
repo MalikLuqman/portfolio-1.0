@@ -6,11 +6,11 @@ import github from "./github.png";
 import externalLink from "./link.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-import bot from "./bot.png"
-import database from "./database.png"
+import bot from "./bot.png";
+import database from "./database.png";
 
-import logoVid from "./video/logoVid.mp4"
-import resume from "./resume/DanishResume.pdf"
+import logoVid from "./video/logoVid.mp4";
+import resume from "./resume/LuqmanResume.pdf";
 
 import css from "./tech/css.png";
 import git from "./tech/git.png";
@@ -19,8 +19,8 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import vuejs from "./tech/vuejs.png"
-import nextjs from "./tech/nextjs.svg"
+import vuejs from "./tech/vuejs.png";
+import nextjs from "./tech/nextjs.svg";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
@@ -34,25 +34,25 @@ import material from "./tech/material.png";
 import aws from "./tech/aws.png";
 import xd from "./tech/xd.png";
 
-import fiverr from "./company/fiverr.svg"
-import cqIcon from "./company/cqIcon.png"
+import fiverr from "./company/fiverr.svg";
+import cqIcon from "./company/cqIcon.png";
 
 import lcs from "./projects/lcs.png";
 import bb from "./projects/bb.png";
 import mpd from "./projects/mpd.png";
-import leankitReplica from "./projects/leankit-replica.png"
-import movieApp from "./projects/movieApp.png"
-import tarotPro from "./projects/tarot.png"
-import wizlink from "./projects/wizlink.png"
-import weaponhire from "./projects/weaponhire.png"
-import telegram from "./projects/telegram.png"
-import coverlettersco from "./projects/coverlettersco.png"
+import leankitReplica from "./projects/leankit-replica.png";
+import movieApp from "./projects/movieApp.png";
+import tarotPro from "./projects/tarot.png";
+import wizlink from "./projects/wizlink.png";
+import weaponhire from "./projects/weaponhire.png";
+import telegram from "./projects/telegram.png";
+import coverlettersco from "./projects/coverlettersco.png";
 
-import twitter from "./contact/Twitter.png"
-import linkedin from "./contact/LinkedIn.png"
-import facebook from "./contact/Facebook.png"
-import instagram from "./contact/Instagram.png"
-import myGithub from "./contact/Github.png"
+import twitter from "./contact/Twitter.png";
+import linkedin from "./contact/LinkedIn.png";
+import facebook from "./contact/Facebook.png";
+import instagram from "./contact/Instagram.png";
+import myGithub from "./contact/Github.png";
 
 export {
   logo,
@@ -104,5 +104,5 @@ export {
   linkedin,
   facebook,
   instagram,
-  myGithub
+  myGithub,
 };
